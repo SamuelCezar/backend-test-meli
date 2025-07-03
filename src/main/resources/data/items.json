@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MLB123456",
+    "title": "Samsung Galaxy A55 5g",
+    "description": "Smartphone Samsung Galaxy A55 5g 128gb + 8gb RAM.",
+    "price": 1500.00,
+    "paymentMethods": ["PIX", "Boleto", "Cartão de Crédito"],
+    "seller": {
+      "id": "seller01",
+      "name": "TechStore",
+      "reputation": "Excelente"
+    },
+    "stock": 10,
+    "rating": 4.5,
+    "imageUrls": [
+      "https://example.com/imagem1.jpg",
+      "https://example.com/imagem2.jpg"
+    ]
+  },
+  {
+    "id": "MLB654321",
+    "title": "Smartphone Samsung Galaxy S24",
+    "description": "Celular Samsung Galaxy S24 com 256GB.",
+    "price": 3800.00,
+    "paymentMethods": ["Cartão de Crédito", "PIX"],
+    "seller": {
+      "id": "seller02",
+      "name": "MobileWorld",
+      "reputation": "Muito Bom"
+    },
+    "stock": 5,
+    "rating": 4.7,
+    "imageUrls": [
+      "https://example.com/galaxy1.jpg",
+      "https://example.com/galaxy2.jpg"
+    ]
+  },
+  {
+    "id": "MLB999999",
+    "title": "Monitor LG Ultrawide 29''",
+    "description": "Monitor LG 29 polegadas ultrawide Full HD.",
+    "price": 1500.00,
+    "paymentMethods": ["PIX", "Boleto"],
+    "seller": {
+      "id": "seller03",
+      "name": "DisplayShop",
+      "reputation": "Bom"
+    },
+    "stock": 8,
+    "rating": 4.2,
+    "imageUrls": [
+      "https://example.com/monitor1.jpg",
+      "https://example.com/monitor2.jpg"
+    ]
+  }
+]
